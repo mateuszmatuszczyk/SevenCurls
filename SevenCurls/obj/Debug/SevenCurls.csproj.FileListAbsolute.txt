@@ -1,0 +1,259 @@
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\csc.exe
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\System.Collections.Immutable.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\System.Reflection.Metadata.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\vbc.exe
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\VBCSCompiler.exe
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\roslyn\VBCSCompiler.exe.config
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\SevenCurls.dll.config
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\SevenCurls.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\SevenCurls.pdb
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Antlr3.Runtime.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\EntityFramework.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\EntityFramework.SqlServer.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.DependencyCollector.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.Web.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.WindowsServer.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.ApplicationInsights.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Google.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Web.Infrastructure.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Newtonsoft.Json.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Owin.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.Helpers.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.Mvc.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.Optimization.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.Razor.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.WebPages.Deployment.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.WebPages.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.WebPages.Razor.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\WebGrease.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.DependencyCollector.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.Web.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AI.WindowsServer.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.ApplicationInsights.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.Helpers.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.Mvc.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.Optimization.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.Razor.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.WebPages.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.WebPages.Deployment.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\System.Web.WebPages.Razor.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Antlr3.Runtime.pdb
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Newtonsoft.Json.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\EntityFramework.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\EntityFramework.SqlServer.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Google.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\obj\Debug\SevenCurls.csprojResolveAssemblyReference.cache
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\obj\Debug\SevenCurls.dll
+H:\Advanced Internet Technologies\SevenCurls\SevenCurls\obj\Debug\SevenCurls.pdb
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\csc.exe
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\vbc.exe
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\VBCSCompiler.exe
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\SevenCurls.dll.config
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\SevenCurls.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\SevenCurls.pdb
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Antlr3.Runtime.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\EntityFramework.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\EntityFramework.SqlServer.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.Web.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.ApplicationInsights.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Newtonsoft.Json.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Owin.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Helpers.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Mvc.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Optimization.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Razor.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.Deployment.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.Razor.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\WebGrease.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.Web.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.ApplicationInsights.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Helpers.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Mvc.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Optimization.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Razor.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.Deployment.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.Razor.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Antlr3.Runtime.pdb
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Newtonsoft.Json.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\EntityFramework.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\EntityFramework.SqlServer.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.csprojResolveAssemblyReference.cache
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.pdb
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.Migrations.initialmodel.resources
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.csproj.GenerateResource.Cache
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Net.Http.Formatting.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Http.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Http.WebHost.dll
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Net.Http.Formatting.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Http.xml
+C:\Users\x14737355\Documents\SevenCurls\SevenCurls\bin\System.Web.Http.WebHost.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\csc.exe
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\vbc.exe
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\VBCSCompiler.exe
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\SevenCurls.dll.config
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\SevenCurls.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\SevenCurls.pdb
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Antlr3.Runtime.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\EntityFramework.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\EntityFramework.SqlServer.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.Web.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Newtonsoft.Json.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Owin.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Net.Http.Formatting.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Helpers.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Http.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Http.WebHost.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Mvc.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Optimization.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Razor.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.Razor.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\WebGrease.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\EntityFramework.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\EntityFramework.SqlServer.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.Web.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Net.Http.Formatting.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Http.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Http.WebHost.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Helpers.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Mvc.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Optimization.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.Razor.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\System.Web.WebPages.Razor.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Antlr3.Runtime.pdb
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Newtonsoft.Json.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.csprojResolveAssemblyReference.cache
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.Migrations.initialmodel.resources
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.csproj.GenerateResource.Cache
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.dll
+C:\Users\Matimek\Documents\SevenCurls\SevenCurls\obj\Debug\SevenCurls.pdb

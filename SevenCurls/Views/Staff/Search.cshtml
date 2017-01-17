@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search for Hair Specialists by ID</h2>
+
+<div class="col-md-10">
+    <input type="text" id="staffID" size="5"/>
+    <input type="submit" name="searchBtn" id="searchBtn" value="Search..." />
+</div>
+
+<br/>
+<div id="processingDiv">
+    <p>Processing your query, please wait... <img src="../../img/ajax-loader.gif" height="50" /></p>
+</div>
+
+<div id="resultDiv">
+</div>
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+    
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#processingDiv").hide();
+            $("#searchBtn").click(function(){
+                search();
+
+            });
+        });
+        
+        function search(){
+            $("#resultDiv").empty();
+            $("#processingDiv").show();
+            var staffID = $("#staffID").val();
+            var url = "../API/Staffs/"+ staffID;
+
+            $.ajax({
+                url: url,
+                type: "GET",
+                dataType: "json",
+                success: function (resp){
+                    $("#processingDiv").hide();
+                    $("<h3>RESULT: </h3>").appendTo("#resultDiv");
+                    $("#resultDiv").append("<p>Staff Name: "+resp.FName + " " + resp.SName);
+                    $("#resultDiv").append("Description: "+resp.Bio);
+                    $("#resultDiv").append("</p>");
+                }
+            })
+        }   
+    </script>        
+
+
+}
